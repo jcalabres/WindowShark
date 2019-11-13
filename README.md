@@ -17,16 +17,16 @@ In order to setup the Keylogger, you will need a basic knowledge of C# language.
 
 # How it works?
 
-Initially, when the user is infected with this malware, the malware will hide itself in a temporal folder. Also, will be added to the startup processes.
+Initially, when the user is infected with this malware, the malware will hide itself in a temporal folder. Also, it will be added to the startup processes.
 
-All the pressed keyboard buttons will be recorded and sended every XX minutes.
+All the pressed keyboard buttons will be recorded and sent every XX minutes.
 
 # Features
 
 * The malware hide itself on temporal folders.
 * The malware startups within the system.
 * All the keyboard buttons pressed will be recorded.
-* All the keyboard buttons pressed will be sended.
+* All the keyboard buttons pressed will be sent.
 
 # TODO
 
